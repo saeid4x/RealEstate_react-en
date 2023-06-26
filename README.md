@@ -1,5 +1,5 @@
 # RealEstate_react-en
 
 <hr>
-![automotive-car-design-en](./src/assets/img/final/2.jpg) <br /> <br />
-![automotive-car-design-en](./src/assets/img/final/1.jpg)
+![real-estate-react-en](./src/assets/img/final/2.png) <br /> <br />
+![real-estate-react-en](./src/assets/img/final/1.png)
